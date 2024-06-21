@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **windows tweaking , website hosting , internet security**
 
-- 📫 How to reach me <a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tecnik.gg-online-green" alt="website" title="website"/> </a>
+- 📫 How to reach me <a href="https://tecnik.pages.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tecnik.gg-online-olivegreen" alt="website" title="website"/> </a>
 
 - ⚡ Fun fact **i m casual gamer**
 
@@ -27,10 +27,10 @@
 
 <p align="left">   </p>
 <h3 align="left">Projects i have worked on:</h3>
-<p align="left"> <a href="https://www.wildwoodrecords.in" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Wildwoodrecords-online-green" alt="website" title="website"/> </a> 
-<a href="https://jugalarts.vercel.app" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jugal-online-green" alt="website" title="website"/> </a> <a href="https://habung.bio.link" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Habung-online-green" alt="Logo&Product Label Design " title="Logo&Product Label Design"/> </a></p>
-<p align="left"> <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-olivegreen" alt="website" title="YT Channel"/> </a> 
-<a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-green" alt="website" title="YT Channel"/> </a> <a href="https://www.youtube.com/@coversongredefined562" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CoverSongYT-inactive-green" alt="YT Channel" title="YT Channel"/> </a></p>
+<p align="left"> <a href="https://www.wildwoodrecords.in" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen" alt="website" title="website"/> </a> 
+<a href="https://jugalarts.vercel.app" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jugal-online-olivegreen" alt="website" title="website"/> </a> <a href="https://habung.bio.link" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Habung-online-olivegreen" alt="Logo&Product Label Design " title="Logo&Product Label Design"/> </a></p>
+<p align="left"> <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red" alt="website" title="YT Channel"/> </a> 
+<a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red" alt="website" title="YT Channel"/> </a> <a href="https://www.youtube.com/@coversongredefined562" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CoverSongYT-inactive-red" alt="YT Channel" title="YT Channel"/> </a></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techgamers2&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="techgamers2" /></p>
 ~GG
