@@ -24,8 +24,7 @@
 | <p align="center"> <a href ="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>  | <p align="center">Low |
 
 <h3 align="left">Projects i m working on:</h3>
-<p align="left"> <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TecNikOfficial-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> 
-<p align="left"> <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TecNikOfficial-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> 
+<p align="left"> <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TecNikOfficial-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> <p align="left"> <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SyncKingEdits-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> 
 
 
 <p align="left">   </p>
