@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tecnik <img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30"/></h1>
 <h3 align="center">Computer Enthusiast</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=plastic" alt="tecnik" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="tecnik" /> </p>
 
 - 🌱 I’m currently learning **computer science**
 
