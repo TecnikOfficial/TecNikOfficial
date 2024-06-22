@@ -24,7 +24,7 @@
 | <p align="center"> <a href ="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>  | <p align="center">Low |
 
 <h3 align="left">Projects i m working on:</h3>
-<p align="left"> <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TecNikOfficial-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> <p align="left"> <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SyncKingEdits-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> 
+<p align="left"> <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TecNikOfficial-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> <p align="left"> <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SyncKingEdits-online-olivegreen" alt="YT Channel" title="YT Channel"/> </a> </p>
 
 
 <p align="left">   </p>
@@ -34,7 +34,7 @@
 <p align="left"> <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red" alt="website" title="YT Channel"/> </a> 
 <a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red" alt="website" title="YT Channel"/> </a> <a href="https://www.youtube.com/@coversongredefined562" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CoverSongYT-inactive-red" alt="YT Channel" title="YT Channel"/> </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
 ~GG
 
 <!--
