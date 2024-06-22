@@ -32,7 +32,7 @@
 <p align="left"> <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red" alt="website" title="YT Channel"/> </a> 
 <a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red" alt="website" title="YT Channel"/> </a> <a href="https://www.youtube.com/@coversongredefined562" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CoverSongYT-inactive-red" alt="YT Channel" title="YT Channel"/> </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techgamers2&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="techgamers2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
 ~GG
 
 <!--
