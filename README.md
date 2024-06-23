@@ -19,9 +19,8 @@
 <a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" />
     </a>
-    <a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" />
-    </a>
+    [![HcjGDt9pSx](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/d4NCDkyDMa)
+
 </p>
 
 |<h3 align="center">Languages and Tools:</h3>            | <h3 align="center">Level</h3>                                                               |
