@@ -9,7 +9,7 @@
 
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social" alt="website" title="website"/> </a>
 
-- ⚡ Fun fact **i m casual gamer**
+- ⚡ Fun fact **i m casual gamer and enjoys editing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
