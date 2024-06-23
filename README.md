@@ -1,6 +1,6 @@
-# Hi <img alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/>, I'm tecnik <img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"/>
+# <p align="center">Hi <img alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/>, I'm tecnik <img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"/>
 
-### Computer Enthusiast
+### Computer Enthusiast</p>
 
 <p align="center">
     <img alt="Non-clickable Image" src="eyes.webp" width="30" height="30">
