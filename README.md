@@ -27,13 +27,13 @@
 ### Projects I'm working on:
 <p align="left">
 <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TecNikOfficial-active-olivegreen?style=plastic&logo=youtube_" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/TecNikOfficial-active-olivegreen?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
     </a>
     <a href="https://tecnik.pages.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx_" alt="website" title="website"/>
+        <img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx%20" alt="website" title="website"/>
     </a>
     <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube_" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
 
@@ -41,24 +41,24 @@
 ### Projects I have worked on:
 <p align="left">
 <a href="https://www.wildwoodrecords.in" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen?style=plastic&logo=htmx_" alt="website" title="website"/>
+        <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen?style=plastic&logo=htmx%20" alt="website" title="website"/>
 </a>
     <a href="https://jugalarts.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Jugal-online-olivegreen?style=plastic&logo=htmx_" alt="website" title="website"/>
+        <img src="https://img.shields.io/badge/Jugal-online-olivegreen?style=plastic&logo=htmx%20" alt="website" title="website"/>
     </a>
     <a href="https://habung.bio.link" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Habung-online-olivegreen?style=plastic&logo=adobephotoshop_" alt="Logo&Product Label Design" title="Logo&Product Label Design"/>
+        <img src="https://img.shields.io/badge/Habung-online-olivegreen?style=plastic&logo=adobephotoshop%20" alt="Logo&Product Label Design" title="Logo&Product Label Design"/>
     </a>
 </p>
 <p align="left">
     <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red?style=plastic&logo=youtube_" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
     </a>
     <a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red?style=plastic&logo=youtube_" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
     </a>
     <a href="https://www.youtube.com/@coversongredefined562" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube_" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
 
