@@ -66,7 +66,7 @@
     <img align="center" src="dino-dark.avif" alt="dino-dark" />
 </p>
 <p align="center">
-   <a href="[https://tecnik.pages.dev](https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1)" target="_blank" rel="noopener noreferrer"> <img align="center" src="subscribe.webp" alt="sub" />
+   <a href="https://tecnik.pages.dev](https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="GG.webp" alt="sub" />
 </p>
 
 
