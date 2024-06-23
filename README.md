@@ -1,4 +1,4 @@
-# <p align="center">Hi <img alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/>, I'm tecnik <img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"/>
+# <h1 align="center">Hi <img alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/>, I'm tecnik <img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"/>
 
 <h3 align="center">Computer Enthusiast</h3>
 
@@ -6,7 +6,7 @@
     <img alt="Non-clickable Image" src="eyes.webp" width="30" height="30">
     <img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge">
 </p>
-
+<h4 align="left">
 - 🌱 I’m currently learning **computer science**
 - 💬 Ask me about **windows tweaking, website hosting, internet security**
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social" alt="website" title="website"/> </a>
