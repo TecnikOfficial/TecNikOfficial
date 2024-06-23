@@ -4,7 +4,7 @@
 
 <p align="center">
     <img alt="Non-clickable Image" src="eyes.webp" width="30" height="30">
-    ![](https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=blue&style=for-the-badge)
+    <img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge">
 </p>
 
 - 🌱 I’m currently learning **Computer Science**
