@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Windows Tweaking, Website Hosting, Internet Security**
 
-- 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"><img align ="top" src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social" alt="website" title="website"/> </a>
+- 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"><img align ="top" src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social&labelColor=red&" alt="website" title="website"/> </a>
 
 - ⚡ Fun fact: I'm a **Casual Gamer and enjoy Editing**
 
