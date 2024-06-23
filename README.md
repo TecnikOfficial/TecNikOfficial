@@ -6,15 +6,16 @@
     <img alt="Non-clickable Image" src="eyes.webp" width="30" height="30">
     <img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge">
 </p>
-<h4>
 - 🌱 I’m currently learning **computer science**
+
 - 💬 Ask me about **windows tweaking, website hosting, internet security**
+- 
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social" alt="website" title="website"/> </a>
+
 - ⚡ Fun fact: I'm a casual gamer and enjoy editing
 
-### Connect with me:
-<p align="left">
-    <a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer">
+### Connect with me: <p align="left">
+<a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" />
     </a>
     <a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer">
