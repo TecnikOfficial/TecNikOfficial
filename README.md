@@ -1,4 +1,4 @@
-### <h1 align="center">Hi <picture><img alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/></picture>, I'm <picture><img alt="Non-clickable Image" src="tecnik.webp" title="aka techgamers2"/> <picture><img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"/></picture>
+### <h1 align="center">Hi <picture><img alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/></picture>, I'm <picture><img alt="Non-clickable Image" src="tecnik.webp"height="49" width="200" title="aka techgamers2"/> <picture><img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"/></picture>
 
 <h3 align="center">Computer Enthusiast</h3>
 
