@@ -1,4 +1,4 @@
-<h1 align="center">Hi <picture><img alt="Non-clickable Image" src="wave.webp"  height="30" width="30" title="Hello There"/></picture>, I'm tecnik <picture><img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30"title="Verified Gamer"/></picture></h1>
+<h1 align="center">Hi <picture><img alt="Non-clickable Image" src="wave.webp"  height="30" width="30" title="Hello There"/>,I'm tecnik <img alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30"title="Verified Gamer"/></picture></h1>
 <h3 align="center">Computer Enthusiast</h3>
 
 <p align="center"><picture> <img  alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge"> </picture></p>
