@@ -27,13 +27,13 @@
 ### Projects I'm working on:
 <p align="left">
 <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TecNikOfficial-active-olivegreen?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/TecNikOfficial-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a> 
     <a href="https://tecnik.pages.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx%20" alt="website" title="website"/>
+        <img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
     </a> 
     <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube%20" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
 
@@ -51,7 +51,7 @@
 </p>
 <p align="left">
     <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red?style=plastic&logo=youtube%" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a> 
     <a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
