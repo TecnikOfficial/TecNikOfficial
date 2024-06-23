@@ -4,16 +4,16 @@
 
 <p align="center">
     <img alt="Non-clickable Image" src="eyes.webp" width="30" height="30">
-    <img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=000000&style=for-the-badge">
+    ![](https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=blue&style=for-the-badge)
 </p>
 
-- 🌱 I’m currently learning **computer science**
+- 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **windows tweaking, website hosting, internet security**
+- 💬 Ask me about **Windows Tweaking, Website Hosting, Internet Security**
 
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social" alt="website" title="website"/> </a>
 
-- ⚡ Fun fact: I'm a casual gamer and enjoy editing
+- ⚡ Fun fact: I'm a Casual Gamer and enjoy Editing
 
 ### Connect with me: <p align="left">
 <a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer">
