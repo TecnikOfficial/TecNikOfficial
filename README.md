@@ -1,9 +1,9 @@
-# <h1 align="center">Hi <picture><img align ="bottom" alt="Non-clickable Image" src="wave.webp" height="32" width="32" title="Hello There!"/></picture>, I'm <picture><img align ="top" alt="Non-clickable Image" src="tecnik.webp" height="40" width="100" title="aka techgamers2"></picture><picture><img align ="bottom" alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"></picture>
+# <h1 align="center">Hi <picture><img align ="bottom" alt="Non-clickable Image" src="assets/wave.webp" height="32" width="32" title="Hello There!"/></picture>, I'm <picture><img align ="top" alt="Non-clickable Image" src="assets/tecnik.webp" height="40" width="100" title="aka techgamers2"></picture><picture><img align ="bottom" alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"></picture>
 
 <h3 align="center">Computer Enthusiast</h3>
 
 <p align="center">
-    <picture><img alt="Non-clickable Image" src="eyes.webp" width="30" height="30"></picture>
+    <picture><img alt="Non-clickable Image" src="assets/eyes.webp" width="30" height="30"></picture>
     <picture><img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge"></picture>
 </p>
 
@@ -63,10 +63,10 @@
 </p>
 
 <p align="center">
-    <img align="center" src="dino-dark.avif" alt="dino-dark" />
+    <img align="center" src="assets/dino-dark.avif" alt="dino-dark" />
 </p>
 <p align="center">
-   <a href="https://tecnik.pages.dev](https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="GG.webp" alt="sub" />
+   <a href="https://tecnik.pages.dev](https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" />
 </p>
 
 
