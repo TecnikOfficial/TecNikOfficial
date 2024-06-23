@@ -67,12 +67,7 @@
 </p>
 <p align="center">
    <a href="https://tecnik.pages.dev](https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" title="Subscribe To Support"/>
-       
-[![Subscribe To Support](assets/GG.webp)](https://tecnik.pages.dev){:target="_blank"}(https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1){:target="_blank"}
-
 </p>
-
-
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
 ~GG
 **TecnikOfficial/TecNikOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
