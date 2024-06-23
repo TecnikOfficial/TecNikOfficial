@@ -25,17 +25,8 @@
 | <p align="center"> <a href ="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>  | <p align="center">Low |
 
 ### Projects I'm working on:
-<p align="left">
-    <a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TecNikOfficial-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
-    </a>
-    <a href="https://tecnik.pages.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
-    </a>
-    <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
-    </a>
-</p>
+<p align="left"><a href="https://www.youtube.com/@TecnikOfficial" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TecNikOfficial-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/></a><a href="https://tecnik.pages.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/></a><a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/></a></p>
+
 
 ### Projects I have worked on:
 <p align="left">
