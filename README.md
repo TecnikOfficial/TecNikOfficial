@@ -65,6 +65,9 @@
 <p align="center">
     <img align="center" src="dino-dark.avif" alt="dino-dark" />
 </p>
+<p align="center">
+   <a href="[https://tecnik.pages.dev](https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1)" target="_blank" rel="noopener noreferrer"> <img align="center" src="subscribe.webp" alt="sub" />
+</p>
 
 
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
