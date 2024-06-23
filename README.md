@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank" rel="noreferrer"><img align ="top" src="https://img.shields.io/badge/tecnik.gg-online-olivegreen?style=social" alt="website" title="website"/> </a>
 
-- ⚡ Fun fact: I'm a Casual Gamer and enjoy Editing
+- ⚡ Fun fact: I'm a **Casual Gamer and enjoy Editing**
 
 ### Connect with me: <p align="left">
 <a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" /></a><a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" /></a></p>
