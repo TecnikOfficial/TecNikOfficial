@@ -53,7 +53,7 @@
 <p align="left">
     <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
-    </a>&nbsp;
+    </a>&emsp;
     <a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>&nbsp;
