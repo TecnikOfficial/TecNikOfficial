@@ -3,8 +3,8 @@
 <h3 align="center">Computer Enthusiast</h3>
 
 <p align="center">
-    <picture><img alt="Non-clickable Image" src="assets/eyes.webp" width="30" height="30"></picture>
-    <picture><img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge"></picture>
+    <picture><img alt="Non-clickable Image" src="assets/eyes.webp" width="30" height="30" loading="eager"></picture>
+    <picture><img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" loading="eager"></picture>
 </p>
 
 - 🌱 I’m currently learning **Computer Science**
@@ -20,9 +20,9 @@
 
 |<h3 align="center">Languages and Tools:</h3>            | <h3 align="center">Level</h3>                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| <p align="center"><a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" title="Photoshop"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"></a><a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/64/filmora.png" alt="filmora" width="40" height="40" title="Filmora"/> </a><a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/64/688/688068.png" alt="after effects" width="40" height="40" title="After Effects"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/> </a> | <p align="center">High |
-| <p align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" title="bootstrap"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Javascript"/> </a> | <p align="center">Mid |
-| <p align="center"> <a href ="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>  | <p align="center">Low |
+| <p align="center"><a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40" loading="lazy"> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" loading="lazy"> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" title="Photoshop" loading="lazy"> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"></a><a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/64/filmora.png" alt="filmora" width="40" height="40" title="Filmora" loading="lazy"> </a><a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/64/688/688068.png" alt="after effects" width="40" height="40" title="After Effects" loading="lazy"> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML" loading="lazy"> </a> | <p align="center">High |
+| <p align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" title="bootstrap"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS" loading="lazy"> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Javascript" loading="lazy"> </a> | <p align="center">Mid |
+| <p align="center"> <a href ="https://www.unrealengine.com"><img src="https://img.icons8.com/color/64/unreal-engine.png" alt="unreal" width="40" height="40" loading="lazy"> </a>  | <p align="center">Low |
 
 ### Projects I'm working on:
 <p align="left">
@@ -62,10 +62,10 @@
 </p>
 
 <p align="center">
-    <img align="center" src="assets/dino-dark.avif" alt="dino-dark" />
+    <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy">
 </p>
 <p align="center">
-   <a href="https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" title="Subscribe To Support"/>
+   <a href="https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" title="Subscribe To Support" loading="lazy">
 </p>
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
 ~GG
