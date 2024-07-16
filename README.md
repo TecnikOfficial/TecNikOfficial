@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green)](https://git.io/streak-stats)
 <p align="center">
     <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy">
 </p>
