@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a>
 <p align="center">
     <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy">
 </p>
