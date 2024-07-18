@@ -3,7 +3,7 @@
     <h2>Computer Enthusiast</h2>
 </div>
 <p align="center">
-    <a href="#"><picture><img alt="Eyes" src="assets/eyes.webp" width="30" height="30" loading="eager"></picture></a>
+    <picture><img alt="Eyes" src="assets/eyes.webp" width="30" height="30" loading="eager"></picture>
     <a href="#"><picture><img src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" loading="eager"></picture></a>
 </p>
 
