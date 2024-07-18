@@ -1,12 +1,7 @@
 <div align="center">
     <h1>Hi <picture><img align="bottom" src="assets/wave.webp" height="32" width="32" title="Hello There!" loading="lazy" alt="Hello There!"></picture>, I'm <picture><img align="top" src="assets/tecnik.webp" alt="aka techgamers2" height="50" width="120" title="aka techgamers2" loading="eager"></picture><picture><img align="bottom" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" alt="Verified Gamer" height="30" width="30" loading="eager"></picture></h1>
-</div>
-
-<div align="center">
     <h2>Computer Enthusiast</h2>
 </div>
-
-
 <p align="center">
     <a href="#"><picture><img alt="Eyes" src="assets/eyes.webp" width="30" height="30" loading="eager"></picture></a>
     <a href="#"><picture><img src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" loading="eager"></picture></a>
