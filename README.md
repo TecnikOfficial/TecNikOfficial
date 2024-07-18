@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h1>Computer Enthusiast</h1>
+    <h2>Computer Enthusiast</h2>
 </div>
 
 
