@@ -12,3 +12,6 @@
 
 /*.webp
   Cache-Control: max-age=2592000
+
+/README.md
+  Cache-Control: max-age=2592000
