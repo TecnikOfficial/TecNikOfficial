@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I'm a **Casual Gamer and enjoy Editing**
 
-### Connect with me: <p align="left">
+### Connect with me: <p align="center">
 <a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" /></a><a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" /></a></p>
 
 |<h3 align="center">Languages and Tools:</h3>            | <h3 align="center">Level</h3>                                                               |
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a>
 <p align="center">
     <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy">
 </p>
