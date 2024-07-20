@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="#"><img align="bottom" src="assets/wave.webp" height="32" width="32" title="Hello There!" loading="lazy" alt="Non-clickable Image"></a>, I'm <a href="#"><img align="top" src="assets/tecnik.webp" alt="Non-clickable Image" height="50" width="120" title="aka techgamers2"></a> <a href="#"><img align="bottom" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"></a></h1>
+<h1 align="center">Hi <a href="#"><img align="bottom" src="assets/wave.webp" height="32" width="32" title="Hello There!" loading="eager" alt="Non-clickable Image"></a>, I'm <a href="#"><img align="top" src="assets/tecnik.webp" alt="Non-clickable Image" height="50" width="120" title="aka techgamers2" loading="eager" ></a> <a href="#"><img align="bottom" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer"></a></h1>
 
 <h3 align="center">Computer Enthusiast</h3>
 
