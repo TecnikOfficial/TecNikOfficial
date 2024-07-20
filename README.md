@@ -1,4 +1,5 @@
-# Hi ![Non-clickable Image](assets/wave.webp "Hello There!"){align="bottom" height="32" width="32" loading="lazy"}, I\'m![Non-clickable Image](assets/tecnik.webp "aka techgamers2"){align="top" height="50" width="120" loading="eager"}![Non-clickable Image](https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png "Verified Gamer"){align="bottom" height="30" width="30" loading="eager"} {#hi-non-clickable-image-imnon-clickable-imagenon-clickable-image align="center"}
+# Hi 
+![Non-clickable Image](assets/wave.webp "Hello There!"){align="bottom" height="32" width="32" loading="lazy"}, I\'m![Non-clickable Image](assets/tecnik.webp "aka techgamers2"){align="top" height="50" width="120" loading="eager"}![Non-clickable Image](https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png "Verified Gamer"){align="bottom" height="30" width="30" loading="eager"} {#hi-non-clickable-image-imnon-clickable-imagenon-clickable-image align="center"}
 
 ### Computer Enthusiast {#computer-enthusiast align="center"}
 
