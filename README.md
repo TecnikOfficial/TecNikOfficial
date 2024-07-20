@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I'm a **Casual Gamer and enjoy Editing**
 
 ### Connect with me: 
-<a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" /></a><a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" /></a></p>
+<a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" loading="lazy"/></a><a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" loading="lazy"/></a></p>
 
 |<h3 align="center">Languages and Tools:</h3>            | <h3 align="center">Level</h3>                                                               |
 | ----------------- | ------------------------------------------------------------------ |
@@ -63,7 +63,7 @@
     <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy">
 </p>
 <p align="center">
-   <a href="https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" title="Subscribe To Support" loading="lazy">
+   <a href="https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" title="Subscribe To Support🔔" loading="lazy">
 </p>
 <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tecnikofficial&hide=stars,prs&show_icons=true&locale=en&theme=dracula" alt="tecnik" /></p>
 ~GG
