@@ -1,9 +1,11 @@
-# Hi <img src="assets/wave.webp" title="Hello There!" data-align="bottom" loading="lazy" width="32" height="32" alt="Non-clickable Image" />, I'm<img src="assets/tecnik.webp" title="aka techgamers2" data-align="top" loading="eager" width="120" height="50" alt="Non-clickable Image" /><img src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" title="Verified Gamer" data-align="bottom" loading="eager" width="30" height="30" alt="Non-clickable Image" />
+<h1 align="center">Hi <picture><img align ="bottom" src="assets/wave.webp" height="32" width="32" title="Hello There!" loading="lazy" alt="Non-clickable Image"></picture>, I'm<picture><img align ="top" src="assets/tecnik.webp" alt="Non-clickable Image" height="50" width="120" title="aka techgamers2" loading="eager"></picture><picture><img align ="bottom" alt="Non-clickable Image" src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png" height="30" width="30" title="Verified Gamer" loading="eager"></picture>
 
-### Computer Enthusiast
+<h3 align="center">Computer Enthusiast</h3>
 
-<img src="assets/eyes.webp" loading="eager" width="30" height="30" alt="Non-clickable Image" />
-<img src="https://komarev.com/ghpvc/?username=tecnikofficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" loading="eager" alt="Non-clickable Image" />
+<p align="center">
+    <picture><img alt="Non-clickable Image" src="assets/eyes.webp" width="30" height="30" loading="eager"></picture>
+    <picture><img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" loading="eager"></picture>
+</p>
 
 - 🌱 I’m currently learning **Computer Science**
 
