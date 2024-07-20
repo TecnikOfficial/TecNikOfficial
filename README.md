@@ -14,20 +14,17 @@ Enthusiast</h3>
 alt="Non-clickable Image" /> <img
 src="https://komarev.com/ghpvc/?username=tecnikofficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge"
 loading="eager" alt="Non-clickable Image" /></p>
-<p>- 🌱 I’m currently learning **Computer Science** - 💬 Ask me about
-**Windows Tweaking, Website Hosting, Internet Security** - 📫 How to
-reach me <a href="https://tecnik.bio.link" target="_blank"><img
-src="https://img.shields.io/badge/tecnik.gg-online-red?style=social"
-title="website" data-align="top" alt="website" /></a> - ⚡ Fun fact: I'm
-a **Casual Gamer and enjoy Editing** ### Connect with me: <a
-href="https://www.youtube.com/@tecnikofficial" target="_blank"
-rel="noopener noreferrer"><img
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-width="40" height="30" alt="@tecnikpost" /></a><a
-href="https://discord.gg/d4NCDkyDMa" target="_blank"
-rel="noopener noreferrer"><img
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-width="40" height="30" alt="HcjGDt9pSx" /></a></p>
+
+- 🌱 I’m currently learning **Computer Science**
+
+- 💬 Ask me about **Windows Tweaking, Website Hosting, Internet Security**
+
+- 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank"><img align ="top" src="https://img.shields.io/badge/tecnik.gg-online-red?style=social" alt="website" title="website"/> </a>
+
+- ⚡ Fun fact: I'm a **Casual Gamer and enjoy Editing**
+
+### Connect with me: 
+<a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" /></a><a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" /></a></p>
 
 |<h3 align="center">Languages and Tools:</h3>            | <h3 align="center">Level</h3>                                                               |
 | ----------------- | ------------------------------------------------------------------ |
