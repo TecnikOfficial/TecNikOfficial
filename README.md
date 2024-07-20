@@ -6,8 +6,6 @@
     <a href="#"><img alt="Non-clickable Image" src="assets/eyes.webp" width="30" height="30"></a> <a href="#"><img alt="Non-clickable Image" src="https://komarev.com/ghpvc/?username=tecnikofficial&label=Profile%20views&color=0e75b6&style=for-the-badge"></a>
 </p>
 
-
-
 - 🌱 I’m currently learning **Computer Science**
 
 - 💬 Ask me about **Windows Tweaking, Website Hosting, Internet Security**
