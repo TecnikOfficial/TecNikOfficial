@@ -4,12 +4,6 @@
 
 <img src="assets/eyes.webp" loading="eager" width="30" height="30" alt="Non-clickable Image" />
 <img src="https://komarev.com/ghpvc/?username=tecnikofficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" loading="eager" alt="Non-clickable Image" />
-### Computer Enthusiast
-
-<img src="assets/eyes.webp" loading="eager" width="30" height="30"
-alt="Non-clickable Image" /> <img
-src="https://komarev.com/ghpvc/?username=tecnikofficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge"
-loading="eager" alt="Non-clickable Image" />
 
 - 🌱 I’m currently learning **Computer Science**
 
