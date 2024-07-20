@@ -1,4 +1,4 @@
-#Hi <img src="assets/wave.webp" title="Hello There!" data-align="bottom"
+ Hi <img src="assets/wave.webp" title="Hello There!" data-align="bottom"
 loading="lazy" width="32" height="32" alt="Non-clickable Image" />, I'm<img src="assets/tecnik.webp" title="aka techgamers2" data-align="top"
 loading="eager" width="120" height="50" alt="Non-clickable Image" /><img
 src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"
