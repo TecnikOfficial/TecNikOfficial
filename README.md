@@ -1,19 +1,16 @@
-<h1 data-align="center"
-id="hi-non-clickable-image-imnon-clickable-imagenon-clickable-image">Hi
-<img src="assets/wave.webp" title="Hello There!" data-align="bottom"
-loading="lazy" width="32" height="32" alt="Non-clickable Image" />,
-I'm<img src="assets/tecnik.webp" title="aka techgamers2"
-data-align="top" loading="eager" width="120" height="50"
-alt="Non-clickable Image" /><img
+# Hi <img src="assets/wave.webp" title="Hello There!" data-align="bottom"
+loading="lazy" width="32" height="32" alt="Non-clickable Image" />, I'm<img src="assets/tecnik.webp" title="aka techgamers2" data-align="top"
+loading="eager" width="120" height="50" alt="Non-clickable Image" /><img
 src="https://help.rangeme.com/hc/article_attachments/360010672693/verified_badge.png"
 title="Verified Gamer" data-align="bottom" loading="eager" width="30"
-height="30" alt="Non-clickable Image" /></h1>
-<h3 data-align="center" id="computer-enthusiast">Computer
-Enthusiast</h3>
-<p><img src="assets/eyes.webp" loading="eager" width="30" height="30"
+height="30" alt="Non-clickable Image" />
+
+### Computer Enthusiast
+
+<img src="assets/eyes.webp" loading="eager" width="30" height="30"
 alt="Non-clickable Image" /> <img
 src="https://komarev.com/ghpvc/?username=tecnikofficial&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge"
-loading="eager" alt="Non-clickable Image" /></p>
+loading="eager" alt="Non-clickable Image" />
 
 - 🌱 I’m currently learning **Computer Science**
 
