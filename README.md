@@ -60,7 +60,10 @@
     </a>
 </p>
 <p align="center"><a href="#"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a>
-   <a href="https://chrome://dino"> <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/></a>
+   <a href="chrome://dino">
+  <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/>
+</a>
+
 </p>
 <p align="center">
    <a href="https://www.youtube.com/channel/UCXucwi4swKyTmCUB9RrFaQw?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/GG.webp" alt="sub" title="Subscribe To Support🔔" loading="lazy">
