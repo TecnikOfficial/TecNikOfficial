@@ -61,7 +61,7 @@
 </p>
 <p align="center"><a href="#"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a>
     
-[![Dino Game](assets/dino-dark.avif)](chrome://dino)
+[![Dino Game](assets/dino-dark.avif)](chrome://dino/)
 
 
 </p>
