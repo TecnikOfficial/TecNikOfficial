@@ -60,9 +60,9 @@
     </a>
 </p>
 <p align="center"><a href="#"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a>
-   <a href="chrome://dino">
-  <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/>
-</a>
+    
+[![Dino Game](assets/dino-dark.avif)](chrome://dino)
+
 
 </p>
 <p align="center">
