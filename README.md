@@ -60,7 +60,6 @@
     </a>
 </p>
 <p align="center"><a href="#"><img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" /></a> 
-    <iframe src="https://chromedino.com/batman/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
 <a href="https://chromedino.com/black"> <img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/></a>
 </p>
 <p align="center">
