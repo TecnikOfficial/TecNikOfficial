@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **Windows Tweaking, Website Hosting, Internet Security**
+- 💬 Ask me about **Windows Tweaking, Website Hosting, Internet Security , Editing**
 
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank"><img align ="top" src="https://img.shields.io/badge/tecnik.gg-online-red?style=social" alt="website" title="website"/> </a>
 
