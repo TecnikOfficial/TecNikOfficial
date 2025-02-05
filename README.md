@@ -61,7 +61,7 @@
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://streak-stats.demolab.com?user=tecnikofficial&theme=soft-green&mode=weekly" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnikofficial&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" />
     </a>
 </p>
 <a href="https://tecnik.pages.dev/dino"><img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/></a>
