@@ -60,7 +60,7 @@
     </a>
 </p>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnikofficial&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tecnikofficial&theme=vue-dark" alt="GitHub Streak" />
     </a>
 <a href="https://tecnik.pages.dev/dino"><img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/></a>
 </p>
