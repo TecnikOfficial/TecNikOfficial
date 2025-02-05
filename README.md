@@ -59,9 +59,11 @@
         <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
+<p align="center">
     <a href="#">
         <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tecnikofficial&theme=vue-dark" alt="GitHub Streak" />
     </a>
+            </p>
 <a href="https://tecnik.pages.dev/dino"><img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/></a>
 </p>
 <p align="center">
