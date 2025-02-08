@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **Windows Tweaking, Website Hosting/Design, Internet Security , Music**
+- 💬 Ask me about **Windows Tweaking, Website Hosting/Design, Internet Security , Music/beats**
 
 - 📫 How to reach me <a href="https://tecnik.bio.link" target="_blank"><img align ="top" src="https://img.shields.io/badge/tecnik.gg-online-red?style=social" alt="website" title="website"/> </a>
 
-- ⚡ Fun fact: I'm a **Casual Gamer and enjoy Editing**
+- ⚡ Fun fact: I'm a **Casual Gamer and enjoys Editing**
 
 ### Connect with me: 
 <a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tecnikpost" height="30" width="40" loading="lazy"/></a><a href="https://discord.gg/d4NCDkyDMa" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HcjGDt9pSx" height="30" width="40" loading="lazy"/></a></p>
@@ -31,8 +31,8 @@
     <a href="https://tecnik.pages.dev" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/TecNikOfficialSite-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
     </a> 
-    <a href="https://www.youtube.com/@SyncKingEdits" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/SyncKingEdits-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
+    <a href="https://www.youtube.com/@SyncKingMusic" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/SyncKingMusic-active-olivegreen?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
 
