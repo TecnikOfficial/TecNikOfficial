@@ -61,7 +61,7 @@
 </p>
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tecnikofficial&theme=hacker" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tecnikofficial&theme=hacker&hide_border=true&hide_current_streak=true" alt="GitHub Streak" />
     </a>
             </p>
 <a href="https://tecnik.pages.dev/dino"><img align="center" src="assets/dino-dark.avif" alt="dino-dark" loading="lazy"/></a>
