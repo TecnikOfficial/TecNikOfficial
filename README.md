@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I'm a **Casual Gamer and enjoys Editing**
 
 ### Connect with me: 
-<a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343537/youtube-player-multimedia-video-communication-interaction.svg" alt="@tecnikpost" height="30" width="40" loading="lazy"/></a><a href="https://discord.com/invite/uFMJ6xZbDz" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/349338/discord.svg" height="30" width="40" loading="lazy"/></a><a href="https://coindrop.to/tecnik" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/484569/coin.svg" alt="CoinDrop" height="30" width="40" loading="lazy"/>
+<a href="https://www.youtube.com/@tecnikofficial" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/343537/youtube-player-multimedia-video-communication-interaction.svg" alt="@tecnikpost" height="30" width="40" loading="lazy"/></a><a href="https://discord.com/invite/uFMJ6xZbDz" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/349338/discord.svg" height="30" title="Discord" width="40" loading="lazy"/></a><a href="https://coindrop.to/tecnik" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/484569/coin.svg" alt="CoinDrop" title="Support" height="30" width="40" loading="lazy"/>
 </a></p>
 
 |<h3 align="center">Languages and Tools:</h3>            | <h3 align="center">Level</h3>                                                               |
