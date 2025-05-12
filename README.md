@@ -39,6 +39,12 @@
 
 ### Projects I have worked on:
 <p align="left">
+    <a href="https://aquib-farhaan.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
+</a> 
+    <a href="https://iftikar-ali-zaman.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
+</a> 
 <a href="https://www.wildwoodrecords.in" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
 </a> 
