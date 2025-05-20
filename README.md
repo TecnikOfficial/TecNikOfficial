@@ -39,6 +39,14 @@
 
 ### Projects I have worked on:
 <p align="left">
+    <a href="https://deepjytoi-boro.vercel.app" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
+</a> 
+<p align="left">
+    <a href="https://github.com/TecnikOfficial/Automated-Site-Optimisation" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/SiteOptimiser-online-olivegreen?style=plastic&logo=github" alt="repo" title="repo"/>
+</a>
+<p align="left">
     <a href="https://aquib-farhaan.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
 </a> 
