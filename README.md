@@ -54,7 +54,7 @@
 <a href="https://www.wildwoodrecords.in" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
 </a> 
-    <a href="https://jugalarts.vercel.app" target="_blank" rel="noopener noreferrer">
+    <a href="https://jugal-arts.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Jugal-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
     </a> 
     <a href="https://habung.bio.link" target="_blank" rel="noopener noreferrer">
