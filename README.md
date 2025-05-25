@@ -112,7 +112,7 @@
         <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
 </a> 
     <a href="https://jugal-arts.vercel.app" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Jugal-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
+        <img src="https://img.shields.io/badge/Art%20Showcase-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
     </a> 
     <a href="https://habung.bio.link" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Habung-online-olivegreen?style=plastic&logo=phpstorm" alt="Logo&Product Label Design" title="Logo&Product Label Design"/>
