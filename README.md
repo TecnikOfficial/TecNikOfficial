@@ -71,8 +71,15 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="60" height="60" loading="lazy">
             </a>
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="60" height="60" loading="lazy
-
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="60" height="60" loading="lazy">
+                            </a>
+            <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="60" height="60" loading="lazy">
+            </a>
+        </td>
+        <td align="center">Low</td>
+    </tr>
+</table>
 
 ### Projects I'm working on:
 <p align="left">
