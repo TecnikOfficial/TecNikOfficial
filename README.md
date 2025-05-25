@@ -22,7 +22,7 @@
 
 <table>
     <tr>
-        <th align="center">Tools</th>
+        <th align="center">Skills</th>
         <th align="center">Level</th>
     </tr>
     <tr>
