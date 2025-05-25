@@ -115,7 +115,7 @@
         <img src="https://img.shields.io/badge/Art%20Showcase-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
     </a> 
     <a href="https://habung.bio.link" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Habung-online-olivegreen?style=plastic&logo=phpstorm" alt="Logo&Product Label Design" title="Logo&Product Label Design"/>
+        <img src="https://img.shields.io/badge/Design-online-olivegreen?style=plastic&logo=phpstorm" alt="Logo&Product Label Design" title="Logo&Product Label Design"/>
     </a> 
 </p>
 <p align="left">
