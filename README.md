@@ -22,7 +22,7 @@
 
 <table>
     <tr>
-        <th align="center">Skills</th>
+        <th align="center">Tools</th>
         <th align="center">Level</th>
     </tr>
     <tr>
@@ -50,7 +50,7 @@
             </a>
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Level-High-brightgreen" alt="High Level" />
+            <span>⭐⭐⭐⭐⭐</span>
         </td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@
             </a>
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Level-Mid-yellow" alt="Mid Level" />
+            <span>⭐⭐⭐⭐</span>
         </td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@
             </a>
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Level-Low-red" alt="Low Level" />
+            <span>⭐⭐⭐</span>
         </td>
     </tr>
 </table>
