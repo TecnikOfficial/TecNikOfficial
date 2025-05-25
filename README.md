@@ -22,7 +22,7 @@
 
 <table>
     <tr>
-        <th align="center">Tools</th>
+        <th align="center">Skills</th>
         <th align="center">Level</th>
     </tr>
     <tr>
@@ -49,7 +49,9 @@
                 <img src="https://external-content.duckduckgo.com/ip3/www.canva.com.ico" alt="Canva" title="Canva" width="40" height="40" loading="lazy">
             </a>
         </td>
-        <td align="center">High</td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Level-High-brightgreen" alt="High Level" />
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -63,7 +65,9 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" title="JavaScript" loading="lazy">
             </a>
         </td>
-        <td align="center">Mid</td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Level-Mid-yellow" alt="Mid Level" />
+        </td>
     </tr>
     <tr>
         <td align="center">
@@ -77,7 +81,9 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40" loading="lazy">
             </a>
         </td>
-        <td align="center">Low</td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Level-Low-red" alt="Low Level" />
+        </td>
     </tr>
 </table>
 
