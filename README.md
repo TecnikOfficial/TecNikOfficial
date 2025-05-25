@@ -20,11 +20,59 @@
 
 ## Languages and Tools
 
-| Tools                                                                                                                                                                                                 | Level |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| [![Windows](https://external-content.duckduckgo.com/ip3/www.microsoft.com.ico)](https://www.microsoft.com/en-us/windows) [![Android](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg)](https://developer.android.com) [![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg)](https://www.photoshop.com/en) [![Filmora](https://external-content.duckduckgo.com/ip3/filmora.wondershare.com.ico)](https://filmora.wondershare.com/) [![After Effects](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg)](https://www.adobe.com/products/aftereffects.html) [![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)](https://www.w3.org/html/) [![Canva](https://external-content.duckduckgo.com/ip3/www.canva.com.ico)](https://www.canva.com) | High  |
-| [![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com) [![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)](https://www.w3schools.com/css/) [![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Mid   |
-| [![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)](https://nextjs.org/) [![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg)](https://vuejs.org/) [![npm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg)](https://www.npmjs.com) | Low   |
+<table>
+    <tr>
+        <th align="center">Tools</th>
+        <th align="center">Level</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+                <img src="https://external-content.duckduckgo.com/ip3/www.microsoft.com.ico" alt="Windows" width="60" height="60" title="Windows" loading="lazy">
+            </a>
+            <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" title="Android" width="60" height="60" loading="lazy">
+            </a>
+            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="60" height="60" title="Photoshop" loading="lazy">
+            </a>
+            <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
+                <img src="https://external-content.duckduckgo.com/ip3/filmora.wondershare.com.ico" alt="Filmora" width="60" height="60" title="Filmora" loading="lazy">
+            </a>
+            <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="60" height="60" title="After Effects" loading="lazy">
+            </a>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" title="HTML" loading="lazy">
+            </a>
+            <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+                <img src="https://external-content.duckduckgo.com/ip3/www.canva.com.ico" alt="Canva" title="Canva" width="60" height="60" loading="lazy">
+            </a>
+        </td>
+        <td align="center">High</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" title="Bootstrap" loading="lazy">
+            </a>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" title="CSS" loading="lazy">
+            </a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="60" height="60" title="JavaScript" loading="lazy">
+            </a>
+        </td>
+        <td align="center">Mid</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="60" height="60" loading="lazy">
+            </a>
+            <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="60" height="60" loading="lazy
+
 
 ### Projects I'm working on:
 <p align="left">
