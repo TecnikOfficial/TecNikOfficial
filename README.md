@@ -31,7 +31,7 @@
                 <img src="https://external-content.duckduckgo.com/ip3/www.microsoft.com.ico" alt="Windows" width="40" height="40" title="Windows" loading="lazy">
             </a>
             <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" title="Android" width="40" height="40" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40" loading="lazy">
             </a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" title="Photoshop" loading="lazy">
