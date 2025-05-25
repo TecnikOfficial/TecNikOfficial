@@ -126,13 +126,13 @@
 </p>
 <p align="left">
     <a href="https://www.youtube.com/@undercovergaming5386" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/UnderCoverGamingYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/UnderCoverGaming-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a> 
     <a href="https://www.youtube.com/@top5simplified114" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Top5SimplifiedYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/Top5Simplified-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a> 
     <a href="https://www.youtube.com/@coversongredefined562" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/CoverSongYT-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
+        <img src="https://img.shields.io/badge/CoverSong-inactive-red?style=plastic&logo=youtube" alt="YT Channel" title="YT Channel"/>
     </a>
 </p>
 <p align="center">
