@@ -28,25 +28,25 @@
     <tr>
         <td align="center">
             <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-                <img src="https://external-content.duckduckgo.com/ip3/www.microsoft.com.ico" alt="Windows" width="60" height="60" title="Windows" loading="lazy">
+                <img src="https://external-content.duckduckgo.com/ip3/www.microsoft.com.ico" alt="Windows" width="40" height="40" title="Windows" loading="lazy">
             </a>
             <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" title="Android" width="60" height="60" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" title="Android" width="40" height="40" loading="lazy">
             </a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="60" height="60" title="Photoshop" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" title="Photoshop" loading="lazy">
             </a>
             <a href="https://filmora.wondershare.com/" target="_blank" rel="noreferrer">
-                <img src="https://external-content.duckduckgo.com/ip3/filmora.wondershare.com.ico" alt="Filmora" width="60" height="60" title="Filmora" loading="lazy">
+                <img src="https://external-content.duckduckgo.com/ip3/filmora.wondershare.com.ico" alt="Filmora" width="40" height="40" title="Filmora" loading="lazy">
             </a>
             <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="60" height="60" title="After Effects" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40" title="After Effects" loading="lazy">
             </a>
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" title="HTML" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML" loading="lazy">
             </a>
             <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-                <img src="https://external-content.duckduckgo.com/ip3/www.canva.com.ico" alt="Canva" title="Canva" width="60" height="60" loading="lazy">
+                <img src="https://external-content.duckduckgo.com/ip3/www.canva.com.ico" alt="Canva" title="Canva" width="40" height="40" loading="lazy">
             </a>
         </td>
         <td align="center">High</td>
@@ -54,13 +54,13 @@
     <tr>
         <td align="center">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" title="Bootstrap" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" loading="lazy">
             </a>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" title="CSS" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS" loading="lazy">
             </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="60" height="60" title="JavaScript" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" title="JavaScript" loading="lazy">
             </a>
         </td>
         <td align="center">Mid</td>
@@ -68,13 +68,13 @@
     <tr>
         <td align="center">
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="60" height="60" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" loading="lazy">
             </a>
             <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="60" height="60" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="40" height="40" loading="lazy">
                             </a>
             <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="60" height="60" loading="lazy">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40" loading="lazy">
             </a>
         </td>
         <td align="center">Low</td>
