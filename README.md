@@ -64,6 +64,9 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" title="JavaScript" loading="lazy">
             </a>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40" title="TailwindCSS" loading="lazy">
+            </a>
         </td>
         <td align="center">
             <span>⭐⭐⭐⭐</span>
@@ -74,8 +77,8 @@
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" loading="lazy">
             </a>
-            <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="40" height="40" loading="lazy">
+            <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40" loading="lazy">
                             </a>
             <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="40" height="40" loading="lazy">
