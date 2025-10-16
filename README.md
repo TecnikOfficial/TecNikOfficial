@@ -28,7 +28,7 @@
     <tr>
         <td align="center">
             <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-                <img src="https://external-content.duckduckgo.com/ip3/www.microsoft.com.ico" alt="Windows" width="40" height="40" title="Windows" loading="lazy">
+                <img src="https://external-content.duckduckgo.com/ip3/blogs.windows.com.ico" alt="Windows" width="40" height="40" title="Windows" loading="lazy">
             </a>
             <a href="https://developer.android.com" target="_blank" rel="noreferrer">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40" loading="lazy">
