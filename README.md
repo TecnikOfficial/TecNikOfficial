@@ -123,6 +123,10 @@
     <a href="https://iftikar-ali-zaman.vercel.app" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Portfolio-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
 </a> 
+    </a> 
+    <a href="https://tecnik.pages.dev/os" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/OS Site-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
+</a> 
 <a href="https://www.wildwoodrecords.in" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Wildwoodrecords-online-olivegreen?style=plastic&logo=htmx" alt="website" title="website"/>
 </a> 
