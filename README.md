@@ -99,7 +99,7 @@
 ### Projects I'm working on:
 <p align="left">
     <a href="https://docisin.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/DocISin-online-olivegreen?style=plastic&logo=htmx" alt="DocISin Doctor Dashboard" title="DocISin Doctor Dashboard"/>
+        <img src="https://img.shields.io/badge/DocISin-online-olivegreen?style=plastic&logo=htmx" alt="DocISin" title="DocISin"/>
     </a>
     <a href="https://luxuryautoport.tecnik.workers.dev/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Luxury%20Auto%20Port-online-olivegreen?style=plastic&logo=htmx" alt="Luxury Auto Port" title="Luxury Auto Port"/>
