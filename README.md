@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="#"><img alt="Non-clickable Image" src="assets/eyes.webp" width="30" height="30" loading="eager"></a>
-<a href="https://hits.sh/github.com/tecnikofficial/"><img alt="Profile views" src="https://hits.sh/github.com/tecnikofficial.svg?style=for-the-badge?labelColor=0d1117&extraCount=500&label=Profile%20views" loading="eager"></a>
+<a href="https://hits.sh/github.com/tecnikofficial/"><img alt="Profile views" src="https://hits.sh/github.com/tecnikofficial.svg?style=for-the-badge&labelColor=0d1117&extraCount=500&label=Profile%20views" loading="eager"></a>
 </p>
 
 - 🌱 I’m currently learning **Computer Science**
